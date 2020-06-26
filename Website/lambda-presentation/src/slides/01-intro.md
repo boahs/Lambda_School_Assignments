@@ -3,6 +3,7 @@
 ![Lambda-Logo](./lambda.png)
 ### A presentation slide show by Sha Adkins
 ##### https://boahs.info
+###### source code : https://github.com/boahs/Lambda_School_Assignments/
 
 ###### Press space or enter to continue through out the slide show
 
@@ -47,7 +48,7 @@
 
 ##### After 10 months of self taught javascript I decided it was some for some structure, and where could I get this? A programming bootcamp! Doing my due diligence on which school offered the best curriculum for the money by some heavy search engine abuse I discovered LAMBDA!  
 
-##### Not only did they have classes I was excited, they also included something that helps me tremendously! But of course I'm referring to the ISA agreement! You can't beat the offer - it's too good. So I thought "Lets take advantage of this, and give it our best! I've self taught for a while. I'm ready to work with groups(new at this!) and ready to find a great paying job!
+##### Not only did they have classes I was excited for but, they also included something that helps me tremendously! But of course I'm referring to the ISA agreement! You can't beat the offer - it's too good. So I thought "Lets take advantage of this, and give it our best! I've been self taught for a while. I'm ready to work with groups(new at this!) and ready to find a great paying job!
 
 ---
 
